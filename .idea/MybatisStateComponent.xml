@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MybatisStateComponent">
+    <option name="tablePropertiesMap">
+      <map>
+        <entry key="carousel">
+          <value>
+            <o>
+              <option name="tableName" value="carousel" />
+            </o>
+          </value>
+        </entry>
+        <entry key="category">
+          <value>
+            <o>
+              <option name="tableName" value="category" />
+            </o>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

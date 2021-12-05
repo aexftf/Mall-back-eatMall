@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MultipleMybatisStateComponent">
+    <option name="projectStates">
+      <map>
+        <entry key="carousel">
+          <value>
+            <a>
+              <option name="javaMapperPackage" value="" />
+              <option name="javaMapperSourcePackage" value="" />
+              <option name="javaModelPackage" value="" />
+              <option name="javaModelSourcePackage" value="" />
+              <option name="javaServiceInterfacePackage" value="" />
+              <option name="javaServiceInterfaceSourcePackage" value="" />
+              <option name="javaServicePackage" value="" />
+              <option name="javaServiceSourcePackage" value="" />
+              <option name="javaXmlPackage" value="" />
+              <option name="javaXmlSourcePackage" value="" />
+              <option name="key" value="id" />
+              <option name="lombokData" value="true" />
+              <option name="lombokNoArgsConstructor" value="true" />
+              <option name="modelName" value="Carousel" />
+              <option name="rmPrefix" value="" />
+              <option name="schema" value="my_mall" />
+              <option name="serviceMode" value="0" />
+              <option name="tableName" value="carousel" />
+              <option name="tablePropertiesMap">
+                <map>
+                  <entry key="carousel">
+                    <value>
+                      <o>
+                        <option name="tableName" value="carousel" />
+                      </o>
+                    </value>
+                  </entry>
+                  <entry key="category">
+                    <value>
+                      <o>
+                        <option name="tableName" value="category" />
+                      </o>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="tkMappers" value="tk.mybatis.mapper.common.Mapper" />
+              <option name="useActualColumnNamesCheckBox" value="true" />
+            </a>
+          </value>
+        </entry>
+        <entry key="category">
+          <value>
+            <a>
+              <option name="javaMapperPackage" value="" />
+              <option name="javaMapperSourcePackage" value="" />
+              <option name="javaModelPackage" value="" />
+              <option name="javaModelSourcePackage" value="" />
+              <option name="javaServiceInterfacePackage" value="" />
+              <option name="javaServiceInterfaceSourcePackage" value="" />
+              <option name="javaServicePackage" value="" />
+              <option name="javaServiceSourcePackage" value="" />
+              <option name="javaXmlPackage" value="" />
+              <option name="javaXmlSourcePackage" value="" />
+              <option name="key" value="id" />
+              <option name="modelName" value="Category" />
+              <option name="rmPrefix" value="" />
+              <option name="schema" value="my_mall" />
+              <option name="serviceMode" value="0" />
+              <option name="tableName" value="category" />
+              <option name="tablePropertiesMap">
+                <map>
+                  <entry key="carousel">
+                    <value>
+                      <o>
+                        <option name="tableName" value="carousel" />
+                      </o>
+                    </value>
+                  </entry>
+                  <entry key="category">
+                    <value>
+                      <o>
+                        <option name="tableName" value="category" />
+                      </o>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="tkMappers" value="tk.mybatis.mapper.common.Mapper" />
+              <option name="useActualColumnNamesCheckBox" value="true" />
+            </a>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
